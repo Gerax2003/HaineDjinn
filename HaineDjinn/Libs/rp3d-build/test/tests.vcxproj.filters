@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\Test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\TestSuite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\Test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\TestSuite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\collision\TestAABB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\collision\TestCollisionWorld.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\collision\TestDynamicAABBTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\collision\TestHalfEdgeStructure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\collision\TestPointInside.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\collision\TestRaycast.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\collision\TestTriangleVertexArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\containers\TestArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\containers\TestMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\containers\TestSet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\containers\TestStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\containers\TestDeque.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\mathematics\TestMathematicsFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\mathematics\TestMatrix2x2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\mathematics\TestMatrix3x3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\mathematics\TestQuaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\mathematics\TestTransform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\mathematics\TestVector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\mathematics\TestVector3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\tests\engine\TestRigidBody.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\a.gerbeaud\Downloads\reactphysics3d-master\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0A460124-C486-35B1-B79D-D7A3BB5347DE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C74B8838-2E04-3358-9FEF-D36E331E9E85}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

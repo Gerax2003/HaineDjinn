@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\a.gerbeaud\code\HaineDjinn\HaineDjinn\Libs\rp3d-build\CMakeFiles\9706a1f86593605c7eeee4f2d259d0e6\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1E557671-C29F-3C4C-99BC-F9E5582B2100}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
